@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <p>github actions test  haha</p>
+  <p>github actions test  hahaxx</p>
 </template>
 
 <script>
